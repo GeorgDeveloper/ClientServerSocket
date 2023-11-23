@@ -5,11 +5,11 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="13" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Phone" />
   </component>
   <component name="SonarLintModuleSettings">
-    <option name="uniqueId" value="d453fb76-979b-4c5a-9972-4c29b69686d2" />
+    <option name="uniqueId" value="71b32cf6-996d-4f4a-938f-df5ea4373bca" />
   </component>
 </module>
